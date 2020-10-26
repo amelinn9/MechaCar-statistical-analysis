@@ -44,19 +44,19 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ### Study Design: MechaCar vs Competition
 There are numerous metrics that would be of interest to a consumer when choosing to purchase a vehicle such as fuel economy (mpg), safety rating, cost, horsepower, greenhouse gas emissions, maintenance frequency, and maintenance cost. Here is a short description of a statistical study that could quantify how the MechaCar performs against the competition. 
 
-#### Metrics
+#### 1. Metrics
 For the purpose of this statistical study, these metrics will be tested:
 - Fuel economy
 - Greenhouse gas emissions
 
-#### Null Hypothesis & Alternative Hypothesis
-Ho: Cars with better fuel economy (mpg) will have no effect on greenhouse gas emissions.
+#### 2. Null Hypothesis & Alternative Hypothesis
+Ho: Cars with better fuel economy (mpg) will have no effect on greenhouse gas emissions.  
 Hα: Cars with better fuel economy (mpg) will have less emission greenhouse gas emissions.
 
-#### Statistical Test
+#### 3. Statistical Test
 I would use an ANOVA to test the hypothesis. This way I can determine if there is a statistical difference between the distribution means of from MechaCar’s sample and the various other competition’s samples.
 
-#### Data needed
+#### 4. Data needed
 The data needed to run the statistical test are listed below:
 -	Fuel economy (mpg) data
 -	Greenhouse gas emissions data
