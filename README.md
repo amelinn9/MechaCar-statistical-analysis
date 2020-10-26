@@ -1,6 +1,6 @@
 # MechaCar Statistical Analysis
 ## Overview
-
+The data analytics team at AutosRUs is tasked to help Jeremy who has been working there for 10 years, with performing statistical tests using the R programming language. Below is the summary statistics for different variables, the interpretation of the statistical test results, and the proposal of a study design including the hypothesis and analysis workflow to help make AutosRUs’ manufacturing process even better. 
 
 ## Results
 ### Linear Regression to Predict MPG
